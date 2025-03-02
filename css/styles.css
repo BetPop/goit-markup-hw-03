@@ -261,7 +261,7 @@ a:focus {
     text-align: center;
     color: var(--primary-header-background-cl);
 }
-.section-subheader {
+.section-team-subheader, .section-highlights-subheader, .section-portfolio-subheader, {
     margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
